@@ -20,7 +20,7 @@ It provides functionality to manage bank clients and perform financial transacti
   - Data is saved after each operation
 
 ## Tech Stack
-- Language: **C++ (C++17)**
+- Language: **C++**
 - IDE: Visual Studio 2022 (or any C++ compiler)
 - File storage: `Bank.txt`
 
